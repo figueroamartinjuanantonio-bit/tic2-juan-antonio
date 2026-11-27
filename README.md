@@ -1,6 +1,6 @@
 # Portafolio Digital de TIC II
 
-**Alumno/a:** [Tu Nombre y Apellidos]  
+**Alumno/a:** [juan antonio figueroa martin]  
 **Curso:** 2º de Bachillerato | **Asignatura:** TIC II  
 
 ## Presentación
@@ -9,4 +9,4 @@ Bienvenido/a a mi portafolio digital de la asignatura TIC II. En este espacio or
 ## Índice de Contenidos
 * **UD1:** Desarrollo de Software y Programación
 * **UD2:** Desarrollo y Publicación Web
-* **UD3:** Ciberseguridad, Redes y Privacidad
+* **UD3:** Ciberseguridad, Redes y Privacidad.
